@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "839225215983",
+    "project_id": "hometutorapp-e9529",
+    "storage_bucket": "hometutorapp-e9529.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839225215983:android:6dae3eaf22af92e1c7041a",
+        "android_client_info": {
+          "package_name": "com.example.testproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839225215983-a8p31lmdkfdu1mc3vsigpq972ds18227.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testproject",
+            "certificate_hash": "083ad431f647100b7ff3f4c7ce9fd09b53b49840"
+          }
+        },
+        {
+          "client_id": "839225215983-io98j0kdaog3gm2b5vs81rssuocuapop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbWDy0GTTYSQbWUFS1VLAzNVytgX3ZD14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839225215983-io98j0kdaog3gm2b5vs81rssuocuapop.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "839225215983-6kpqt02rrsj9ovvte9jffn4bfkehsr4r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.testproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
